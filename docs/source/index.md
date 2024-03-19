@@ -1,4 +1,4 @@
-# **my-package**
+# **longconv-jax**
 
 ```{toctree}
 :maxdepth: 2
