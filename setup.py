@@ -9,12 +9,12 @@ with open("setup-requirements.txt", "r") as req_file:
 setup(
     name="longconv_jax",
     version="0.1.0",
-    author="attophyd",
-    author_email="attophyd@gmail.com",
+    author="simudt",
+    author_email="simudt@gmail.com",
     description="Packaged version of Simple Long Convolutions for Sequence Modeling for Jax + Flax.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/attophyd/longconv-jax",
+    url="https://github.com/simudt/longconv-jax",
     packages=find_packages(),
     install_requires=install_requires,
     classifiers=[

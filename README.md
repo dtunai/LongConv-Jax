@@ -16,7 +16,7 @@ flax==0.8.1
 You can install the package using `pip3 install -e .`:
 
 ```bash
-git clone https://github.com/attophyd/LongConv-Jax
+git clone https://github.com/simudt/LongConv-Jax
 cd LongConv-Jax
 pip3 install -e .
 ```
